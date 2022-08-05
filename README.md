@@ -2,19 +2,20 @@
 <h3 align="center">A passionate web developer from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chetansingh-2&label=Profile%20views&color=0e75b6&style=flat" alt="chetansingh-2" /> </p>
 
-<p align="right"> <img src="img for github.gif" alt="chetansingh-2" width="350" height="200" display="inline"/></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
+<p>
 - 🔭 I’m currently working as **Student**
-
+  <p><img align="right" src="/img for github.gif" width="350" alt="chetansingh-2" /></p>
 - 🌱 I’m currently learning **Full Stack development**
 
 - 👯 I’m looking to collaborate **on github**
 
 - 🤝 I’m looking for help in **Data Structures, Full stack development**
+  
 
-- 👨‍💻 All of my projects are available at [on this account](on this account)
+     
+- 👨‍💻 All of my projects are available at my github account
 
 - 💬 Ask me about **react, nodejs, data structures and algorithms**
 
