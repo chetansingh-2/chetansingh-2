@@ -1,21 +1,18 @@
 <h1 align="center">Hi 👋, I'm Chetan</h1>
 <h3 align="center">A passionate web developer from India</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chetansingh-2&label=Profile%20views&color=0e75b6&style=flat" alt="chetansingh-2" /> </p>
 
-
+<p align="right"> <img src="img for readme.gif" alt="chetansingh-2" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Web development**
-<p align="right">
- 
-  <img src="img for github" width="350" alt="accessibility text">
-</p>
+- 🔭 I’m currently working as **Student**
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **Full Stack development**
 
-- 🤝 I’m looking for help in **learning journey**
+- 👯 I’m looking to collaborate **on github**
+
+- 🤝 I’m looking for help in **Data Structures, Full stack development**
 
 - 👨‍💻 All of my projects are available at [on this account](on this account)
 
@@ -25,7 +22,7 @@
 
 - ⚡ Fun fact **I am boring**
 
-<h3 align="left">Connect with me: https://www.linkedin.com/in/kunwar-chetan-singh-0a45391b8/</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
