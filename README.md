@@ -1,23 +1,23 @@
 <h1 align="center">Hi 👋, I'm Chetan</h1>
-<h3 align="center">A passionate web developer from India</h3>
+<h3 align="center">A passionate Backend developer & Data Engineer from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chetansingh-2&label=Profile%20views&color=0e75b6&style=flat" alt="chetansingh-2" /> </p>
 
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 <p>
-- 🔭 I’m currently working as **Student**
+- 🔭 I’m currently working as Data Engineer
   <p><img align="right" src="/img for github.gif" width="350" alt="chetansingh-2" /></p>
-- 🌱 I’m currently learning **Full Stack development**
+- 🌱 I’m currently learning building scalable Pipelines**
 
-- 👯 I’m looking to collaborate **on github**
+- 👯 I’m looking to collaborate for building backend systems and data pipeline.
 
-- 🤝 I’m looking for help in **Data Structures, Full stack development**
+- 🤝 I’m looking for opportunity in **Data Engineering and Backend Developer roles**
   
 
      
 - 👨‍💻 All of my projects are available at my github account
 
-- 💬 Ask me about **react, nodejs, data structures and algorithms**
+- 💬 Ask me about **nodejs, python, databases, system design, backend development**
 
 - 📫 How to reach me **kunwarchetansingh000@gmail.com**
 
