@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 <p>
-- 🔭 I’m currently working as Data Engineer
+- 🔭 I’m currently working as SDE-1
   <p><img align="right" src="/img for github.gif" width="350" alt="chetansingh-2" /></p>
 - 🌱 I’m currently learning building scalable Pipelines**
 
